@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarialenaaK
 - 👀 I’m interested in new ideas and projects that will make me better.
-- 🌱 I’m currently learning java, HTML, JavaScript
+- 🌱 I’m currently learning Java, HTML, JavaScript.
 - 💞️ I’m looking to collaborate on anything i could.
 - 📫 How to reach me ...
 
